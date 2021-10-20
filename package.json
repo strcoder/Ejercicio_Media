@@ -1,0 +1,20 @@
+{
+  "name": "ejercicio_media",
+  "version": "1.0.0",
+  "description": "Encontrar la media de una lista de numeros",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strcoder/Ejercicio_Media.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strcoder/Ejercicio_Media/issues"
+  },
+  "homepage": "https://github.com/strcoder/Ejercicio_Media#readme"
+}
